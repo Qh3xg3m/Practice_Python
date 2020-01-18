@@ -21,7 +21,7 @@ def main(x):
 			x = x // 10
 		if lg == True:
 			print(i)
-
+# print cac so sieu nguyen to tu 0 --> 10000
 for x in range(10001):
 	main(x)
 
