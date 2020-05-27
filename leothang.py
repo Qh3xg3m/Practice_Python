@@ -1,18 +1,7 @@
 # #!/usr/bin/env python3
 # # -*- coding: utf-8 -*-
 
-# import pyautogui
-# pyautogui.alert('This is an alert box.')
-# pyautogui.confirm('Shall I proceed?')
-# pyautogui.confirm('Enter option.', buttons=['A', 'B', 'C'])
-# name = input(pyautogui.prompt('What is your name?'))
-# print(name)
-# pyautogui.password('Enter password (text will be hidden)')
-# # https://pypi.org/project/PyAutoGUI/
-
-
 # đề bài: https://imgur.com/a/xb8Z5VF
-
 
 arr = [2, 4, 1, 9, 8] # 25
 arr = [1,2,3] # 7
@@ -34,7 +23,5 @@ else:
 		print(Sum)
 		exit()
 			
-
-
 
 
